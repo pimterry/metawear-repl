@@ -1,0 +1,22 @@
+{
+  "name": "metawear-repl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimterry/metawear-repl.git"
+  },
+  "author": "Tim Perry <pimterry@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pimterry/metawear-repl/issues"
+  },
+  "homepage": "https://github.com/pimterry/metawear-repl#readme",
+  "dependencies": {
+    "node-metawear": "^0.3.7"
+  }
+}
